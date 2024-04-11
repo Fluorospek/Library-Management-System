@@ -1,0 +1,2 @@
+1. add new author to authors table when adding a book, as it will be new author
+2. List down all the categories in the database and ask user to select one of them when adding the book. If the category does not exist, then add new category`
